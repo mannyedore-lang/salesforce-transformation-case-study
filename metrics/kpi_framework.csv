@@ -1,0 +1,6 @@
+kpi,definition,owner,cadence,target
+Case Resolution Time,Average time to close service cases,Operations,Weekly,Reduce
+SLA Attainment,Percent of cases resolved within SLA,Service Management,Weekly,>=95%
+User Adoption,Monthly active users / licensed users,Product,Monthly,Increase
+Release Success Rate,Deployments without rollback or Sev1 incident,Engineering,Monthly,>=98%
+IT OPEX,Run cost associated with CRM support and operations,Finance,Quarterly,Reduce
